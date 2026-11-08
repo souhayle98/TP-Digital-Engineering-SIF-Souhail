@@ -28,7 +28,7 @@ Réalisation d'un programme en langage C permettant d'effectuer le cacul de la s
 Réalisation d'un travail collaboratif en binôme à l'aide de Git et GitHub.
 
 - **Mon rôle :**  propriétaire du dépôt (Etudiant A)
-- **Pull Request fusionnée :** [Lien vers la Pull Request (PR) fusionnée](URL_DE_LA_PULL_REQUEST)
+- **Pull Request fusionnée :** [Lien vers la Pull Request (PR) fusionnée](https://github.com/souhayle98/calcul-c-equipe/pull/1)
 
 ## 3. Bilan des commandes Git
 
