@@ -29,6 +29,7 @@ Réalisation d'un travail collaboratif en binôme à l'aide de Git et GitHub.
 
 - **Mon rôle :**  propriétaire du dépôt (Etudiant A)
 - **Nom&Prénom(Etudiant B) :** Ait Addi youssef
+- **GitHub Etudiant B :** [Lien vers profile de github du etudiant B](https://github.com/Youssef-Ait-Addi)
 - **Pull Request fusionnée :** [Lien vers la Pull Request (PR) fusionnée](https://github.com/souhayle98/calcul-c-equipe/pull/1)
   
 ## Historique des commandes utilisées (Demandé par le prof)
