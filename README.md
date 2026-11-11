@@ -31,7 +31,7 @@ Réalisation d'un travail collaboratif en binôme à l'aide de Git et GitHub.
 - **Mon rôle :**  propriétaire du dépôt (Etudiant A)
 - **Pull Request fusionnée :** [Lien vers la Pull Request (PR) fusionnée](https://github.com/souhayle98/calcul-c-equipe/pull/1)
   
-## Historique des commandes utilisées (Demandé par le prof)
+## Historique des commandes utilisées (Demandé par prof Meryem Maftouh)
 ### Exercice 1 : Du dépôt local à GitHub
 #### 1. Créer le dossier, `main.c`, initialiser Git
 ```bash
