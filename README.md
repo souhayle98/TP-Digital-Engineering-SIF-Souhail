@@ -43,7 +43,7 @@ Créer `main.c` dans l'éditeur, avec ce contenu :
 ```c
 #include <stdio.h>
 
-int main(void) {
+int main(){
     printf("Bienvenue dans calcul-c !\n");
     return 0;
 }
@@ -168,7 +168,7 @@ git push
 #### 1. Création et clonage
 Sur GitHub : créer `calcul-c-equipe` **avec** un `README.md` initial, puis inviter B (*Settings → Collaborators*).
 ```bash
-git clone https://github.com/<utilisateurA>/calcul-c-equipe.git
+git clone https://github.com/souhayle98/calcul-c-equipe.git
 cd calcul-c-equipe
 git status
 git branch                # branche active
@@ -188,7 +188,7 @@ int main(void) {
 ```
 ```bash
 git add main.c
-git commit -m "Ajouter main.c initial"
+git commit -m "main.c initial contenant une fonction"
 git push origin main
 ```
 *(Côté B : `git fetch` puis `git pull`.)*
@@ -209,13 +209,13 @@ git switch -c feature/moyenne
 ```
 Ajouter dans `main.c` (avec l'éditeur) :
 ```c
-float moyenne(int a, int b) {
-    return (a + b) / 2.0f;
+float moyenne(int a,int b){
+    return (float)(a+b)/2;
 }
 ```
 ```bash
 git add main.c
-git commit -m "Ajouter la fonction moyenne"
+git commit -m "Ajout fonction moyenne"
 git switch main
 git pull                          # récupérer d'abord la fusion de feature/produit
 git merge feature/moyenne
