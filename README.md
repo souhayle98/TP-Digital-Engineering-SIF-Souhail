@@ -17,7 +17,7 @@
 | **Git Bash** | Terminal pour exécuter les commandes Git |
 | **GCC** | Compilateur C (`gcc main.c -o calcul`) |
 
-## 1. Présentation de l'étudiant 
+## 1. Présentation des étudiants
 
 - **Nom&Prénom(Etudiant A) :** Souhail Sif
 - **GitHub:** [Mon profil GitHub](https://github.com/souhayle98)
