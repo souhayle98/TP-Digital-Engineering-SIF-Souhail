@@ -1,4 +1,21 @@
 # TP-Digital-Engineering-SIF-Souhail
+## Technologies utilisées
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/Langage_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+
+| Outil | Rôle dans le TP |
+|-------|-----------------|
+| **Git** | Gestion de versions (commits, branches, fusions) |
+| **GitHub** | Hébergement des dépôts, pull requests, collaboration |
+| **Langage C** | Langage du projet (`main.c`) |
+| **VS Code** | Éditeur pour écrire le code et les fichiers |
+| **Git Bash** | Terminal pour exécuter les commandes Git |
+| **GCC** | Compilateur C (`gcc main.c -o calcul`) |
 
 ## 1. Présentation de l'étudiant 
 
