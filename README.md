@@ -93,18 +93,43 @@ git commit -m "Calcul la somme de 2 nombres"
 #### 5. `.gitignore`, `README.md`, troisième commit
 Créer `.gitignore` dans l'éditeur :
 ```
-calcul
-calcul.exe
-*.o
+#ignorer les fichiers executables 
+*.exe
+#ignorer les fichiers objets
+*.obj
 ```
 Créer `README.md` dans l'éditeur :
 ```markdown
-# calcul-c
-Petit programme en C qui lit deux entiers et affiche leur somme.
+# Projet en C
+
+## Présentation du projet
+
+Ce projet consiste à développer une application en langage C permettant d'effectuer la somme de deux nombres.
+
+## Structure du projet
+
+- `main.c` : contient le programme principal.
+- `README.md`:Présentation du projet et instructions
+- `.gitignore`:Fichiers ignorés par Git
+- `calcul.c`:Fichier compilé
+- `calcul.exe`:Programme exécutable (généré)
+
 
 ## Compilation
-    gcc main.c -o calcul
-    ./calcul
+
+Pour compiler le projet avec GCC :
+
+```bash
+gcc main.c calcul.c -o calcul.exe 
+```
+
+## Exécution
+
+Pour exécuter le programme :
+
+```bash
+./calcul.exe
+```
 ```
 ```bash
 git add .gitignore README.md
@@ -120,7 +145,7 @@ git ls-files             # seuls main.c, .gitignore, README.md sont suivis
 Créer d'abord sur GitHub un dépôt **public** `calcul-c`, **sans** README initial.
 ```bash
 git branch -M main
-git remote add origin https://github.com/<utilisateur>/calcul-c.git
+git remote add origin https://github.com/souhayle98/calcul-c.git
 git remote -v
 git push -u origin main
 ```
@@ -130,7 +155,7 @@ Vérifier sur GitHub la présence des trois commits (onglet *Commits*).
 Modifier légèrement `main.c` dans l'éditeur (par exemple le message d'invite), puis :
 ```bash
 git add main.c
-git commit -m "Améliorer le message d'invite"
+git commit -m "Modification mise en forme d'affichage & Ajouter message au debut du programme"
 git push
 ```
 **Différence** : `git commit` enregistre une version **localement** (dans le dépôt local), alors que `git push` **envoie** les commits locaux vers le dépôt distant (GitHub).
