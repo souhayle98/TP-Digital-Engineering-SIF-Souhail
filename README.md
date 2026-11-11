@@ -2,10 +2,11 @@
 
 ## 1. Présentation de l'étudiant 
 
-- **Nom :** SIF
-- **Prénom :** Souhail
-- **Formation :** Informatique & ingénierie des données
-- **GitHub :** [Mon profil GitHub](https://github.com/souhayle98)
+- **Nom&Prénom(Etudiant A) :** Souhail Sif
+- **GitHub:** [Mon profil GitHub](https://github.com/souhayle98)
+- **Nom&Prénom(Etudiant B) :** Ait Addi youssef
+- **GitHub:** [Lien vers profile de github du etudiant B](https://github.com/Youssef-Ait-Addi)
+- **Formation:** Informatique & ingénierie des données
 
 ## 2. Dépôts GitHub réalisés
 
@@ -28,8 +29,6 @@ Réalisation d'un programme en langage C permettant d'effectuer le cacul de la s
 Réalisation d'un travail collaboratif en binôme à l'aide de Git et GitHub.
 
 - **Mon rôle :**  propriétaire du dépôt (Etudiant A)
-- **Nom&Prénom(Etudiant B) :** Ait Addi youssef
-- **GitHub Etudiant B :** [Lien vers profile de github du etudiant B](https://github.com/Youssef-Ait-Addi)
 - **Pull Request fusionnée :** [Lien vers la Pull Request (PR) fusionnée](https://github.com/souhayle98/calcul-c-equipe/pull/1)
   
 ## Historique des commandes utilisées (Demandé par le prof)
