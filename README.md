@@ -5,7 +5,7 @@
 - **Nom&Prénom(Etudiant A) :** Souhail Sif
 - **GitHub:** [Mon profil GitHub](https://github.com/souhayle98)
 - **Nom&Prénom(Etudiant B) :** Ait Addi youssef
-- **GitHub:** [Lien vers profile de github du etudiant B](https://github.com/Youssef-Ait-Addi)
+- **GitHub:** [Lien vers profile de github du etudiant B](https://github.com/YousssefAit)
 - **Formation:** Informatique & ingénierie des données
 
 ## 2. Dépôts GitHub réalisés
